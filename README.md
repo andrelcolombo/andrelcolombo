@@ -27,8 +27,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/databricks" width="40"/>
 <img src="https://cdn.simpleicons.org/googlebigquery" width="40"/>
+<img src="https://cdn.simpleicons.org/looker" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="100"/>
 </p>
 
 

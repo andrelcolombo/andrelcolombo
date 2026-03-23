@@ -78,6 +78,7 @@ Tenho experiência na manipulação e transformação de dados utilizando **Pyth
 ## Business Intelligence
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20"/> Desenvolvimento de dashboards interativos no Power BI
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" width="20"/> Criação de relatórios e dashboards no Looker Studio
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="30"/> Criação de relatórios e dashboards no Tableau
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="20"/> Excel avançado para análise de dados e relatórios
 - 📊 Modelagem de dados para BI
 - 📈 Storytelling com dados

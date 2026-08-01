@@ -25,11 +25,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/databricks" width="40"/>
 <img src="https://cdn.simpleicons.org/apachespark"" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/looker" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30"/>
+<img src="https://cdn.simpleicons.org/airbyte" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="100"/>
@@ -66,6 +68,7 @@ Tenho experiência na manipulação e transformação de dados utilizando **Pyth
 - ⚙️ ETL e pipelines de dados
 - 🔄 Manipulação, limpeza e transformação de dados
 - 🔄 ETL com Power Query
+- <img src="https://cdn.simpleicons.org/airbyte" width="20"/> Ingestão e integração de dados com Airbyte
 - 🔗 Integração de dados entre sistemas e bancos de dados
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Processamento de dados com Python
 - 📦 Preparação e estruturação de dados para análise
@@ -95,6 +98,7 @@ Tenho experiência na manipulação e transformação de dados utilizando **Pyth
 
 ## Cloud & Data Platforms
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> AWS (S3, EC2, RDS, Lambda)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20"/> Microsoft Azure (AZ-900 Certified)
 - <img src="https://cdn.simpleicons.org/googlebigquery" width="20"/> Google BigQuery (GCP)
 - <img src="https://cdn.simpleicons.org/databricks" width="20"/> Databricks
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="20"/> Microsoft Fabric
@@ -106,7 +110,7 @@ Tenho experiência na manipulação e transformação de dados utilizando **Pyth
 - 🤖 Automação de processos com Python e VBA
 # 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/andr%C3%A9-luiz-colombo-729755111/
+- 💼 LinkedIn: https://www.linkedin.com/in/andre-luiz-colombo/
 - 💻 GitHub: https://github.com/andrelcolomb
 - 🌐 Portfólio: https://andre-colombo-portfolio.streamlit.app
 - 📧 Email: andre-luiz-colombo@outlook.com

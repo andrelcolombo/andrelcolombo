@@ -29,9 +29,10 @@
 <img src="https://cdn.simpleicons.org/databricks" width="40"/>
 <img src="https://cdn.simpleicons.org/apachespark"" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/looker" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30"/>
+<img src="https://cdn.simpleicons.org/looker" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/airbyte" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/dbt.svg" width="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="100"/>
@@ -69,6 +70,7 @@ Tenho experiência na manipulação e transformação de dados utilizando **Pyth
 - 🔄 Manipulação, limpeza e transformação de dados
 - 🔄 ETL com Power Query
 - <img src="https://cdn.simpleicons.org/airbyte" width="20"/> Ingestão e integração de dados com Airbyte
+- <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/dbt.svg" width="30"/> Transformação e modelagem de dados com dbt
 - 🔗 Integração de dados entre sistemas e bancos de dados
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Processamento de dados com Python
 - 📦 Preparação e estruturação de dados para análise
